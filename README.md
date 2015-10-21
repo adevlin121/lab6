@@ -1,1 +1,1 @@
-# lab6
+# cc-lab6-storage
